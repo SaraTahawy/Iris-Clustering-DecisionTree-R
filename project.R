@@ -1,5 +1,3 @@
-# Welcome to our project
-
 # This is the list of libraries and packages we need
 install.packages("rpart")
 install.packages("rpart.plot")
